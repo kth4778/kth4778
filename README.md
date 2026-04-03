@@ -27,14 +27,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kth4778&show_icons=true&theme=tokyonight&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kth4778&layout=compact&theme=tokyonight" height="165"/>
-</div>
-
-<br>
-
 ## 🔥 Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kth4778&theme=tokyonight"/>
